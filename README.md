@@ -35,4 +35,4 @@
 ---
 
 [linkedin]: https://linkedin.com/in/alfian0
-[dribbble]: https://linkedin.com/in/alfian0
+[dribbble]: https://dribbble.com/Alfiansyah
