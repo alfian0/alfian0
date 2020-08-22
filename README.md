@@ -1,5 +1,9 @@
 ### Hi there 👋 I am Alfian
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Languages and Tools:
 
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
@@ -26,3 +30,5 @@
 ➡️ [more blog posts...](https://medium.com/@alfian.official.mail)
 
 ---
+
+[linkedin]: https://linkedin.com/in/alfian0
