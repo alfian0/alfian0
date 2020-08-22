@@ -23,6 +23,6 @@
 - [Membongkar UIControl di UIKit](https://medium.com/@alfian.official.mail/membongkar-uicontrol-di-uikit-9d97eac574ee)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@alfian.official.mail)
 
 ---
