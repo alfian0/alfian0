@@ -24,6 +24,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memecah Monolith App ke Modular App](https://medium.com/@alfian.official.mail/memecah-monolith-app-ke-modular-app-89090f2c6531)
 - [Belajar CoreNFC di iOS Swift](https://medium.com/@alfian.official.mail/belajar-corenfc-di-ios-swift-8dde9fb5772d)
 - [Custom Page Transition di iOS App](https://medium.com/@alfian.official.mail/custom-page-transition-di-ios-app-cb7ee3981b91)
 - [Membuat Rating Komponen](https://medium.com/@alfian.official.mail/membuat-rating-komponen-d8f35d469bfa)
