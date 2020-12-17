@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Muhammad Alfiansyah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Muhammad Alfiansyah | Dribbble" width="22px" src="https://cdn.dribbble.com/assets/dribbble-ball-icon-e94956d5f010d19607348176b0ae90def55d61871a43cb4bcb6d771d8d235471.svg" />][dribbble]
+[<img align="left" alt="Muhammad Alfiansyah | Dribbble" width="22px" src="https://cdn.dribbble.com/assets/dribbble-logo-f36c2c17cccf1a4802a42c31e4dd7ba745d65d6cbc7ccab13a76c2930fd00db3.svg" />][dribbble]
 
 <br />
 
@@ -24,6 +24,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sticker View pada Chat app](https://alfian-official-mail.medium.com/sticker-view-pada-chat-app-383ae9f63145)
 - [Memecah Monolith App ke Modular App](https://medium.com/@alfian.official.mail/memecah-monolith-app-ke-modular-app-89090f2c6531)
 - [Belajar CoreNFC di iOS Swift](https://medium.com/@alfian.official.mail/belajar-corenfc-di-ios-swift-8dde9fb5772d)
 - [Custom Page Transition di iOS App](https://medium.com/@alfian.official.mail/custom-page-transition-di-ios-app-cb7ee3981b91)
