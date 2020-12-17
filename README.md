@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Muhammad Alfiansyah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Muhammad Alfiansyah | Dribbble" width="22px" src="https://cdn.dribbble.com/assets/dribbble-logo-f36c2c17cccf1a4802a42c31e4dd7ba745d65d6cbc7ccab13a76c2930fd00db3.svg" />][dribbble]
+[<img align="left" alt="Muhammad Alfiansyah | Dribbble" width="22px" src="https://cdn.dribbble.com/assets/dribbble-ball-icon-4e54c54abecf8efe027abe6f8bc7794553b8abef3bdb49cd15797067cf80ca53.svg" />][dribbble]
 
 <br />
 
