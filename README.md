@@ -24,6 +24,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara memangil native method dari React Native iOS](https://alfian-official-mail.medium.com/cara-memangil-native-method-dari-react-native-ios-4b35f0c5b969)
+- [Cara buat XCFramework (Universal Framework)](https://alfian-official-mail.medium.com/cara-buat-xcframework-universal-framework-808fbc24d947)
 - [Sticker View pada Chat app](https://alfian-official-mail.medium.com/sticker-view-pada-chat-app-383ae9f63145)
 - [Memecah Monolith App ke Modular App](https://medium.com/@alfian.official.mail/memecah-monolith-app-ke-modular-app-89090f2c6531)
 - [Belajar CoreNFC di iOS Swift](https://medium.com/@alfian.official.mail/belajar-corenfc-di-ios-swift-8dde9fb5772d)
