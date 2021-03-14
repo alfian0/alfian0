@@ -24,6 +24,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mememriksa framework mana yang menggunakan UIWebView](https://alfian-official-mail.medium.com/mememriksa-framework-mana-yang-menggunakan-uiwebview-a0850c56f04b)
 - [Cara memangil native method dari React Native iOS](https://alfian-official-mail.medium.com/cara-memangil-native-method-dari-react-native-ios-4b35f0c5b969)
 - [Cara buat XCFramework (Universal Framework)](https://alfian-official-mail.medium.com/cara-buat-xcframework-universal-framework-808fbc24d947)
 - [Sticker View pada Chat app](https://alfian-official-mail.medium.com/sticker-view-pada-chat-app-383ae9f63145)
