@@ -2,19 +2,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Muhammad Alfiansyah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Muhammad Alfiansyah | Dribbble" width="22px" src="https://cdn.dribbble.com/assets/dribbble-ball-icon-4e54c54abecf8efe027abe6f8bc7794553b8abef3bdb49cd15797067cf80ca53.svg" />][dribbble]
+[<img align="left" alt="Muhammad Alfiansyah | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />][linkedin]
+[<img align="left" alt="Muhammad Alfiansyah | Dribbble" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_dribbble-512.png" />][dribbble]
+[<img align="left" alt="Muhammad Alfiansyah | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" />][instagram]
+[<img align="left" alt="Muhammad Alfiansyah | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-1024.png" />][medium]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align="left" alt="Xcode" width="26px" src="https://cdn3.iconfinder.com/data/icons/macosxstyle/macosxstyle_png/512/Xcode.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" />
 
 <br />
 <br />
@@ -41,3 +43,5 @@
 
 [linkedin]: https://linkedin.com/in/alfian0
 [dribbble]: https://dribbble.com/Alfiansyah
+[instagram]: https://www.instagram.com/_alfian0_/
+[medium]: https://medium.com/@alpiopio
