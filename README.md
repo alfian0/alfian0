@@ -33,8 +33,10 @@ YAML                     56 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
-![](https://github-readme-stats.vercel.app/api?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false)
+<div style="display:flex;">
+ <img src="https://github-readme-stats.vercel.app/api?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ---
 ### Connect with me:
