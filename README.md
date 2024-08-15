@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Alfian
 I am an experienced iOS programmer with 7 years of expertise in developing high-quality applications. My skills encompass a wide range of programming paradigms, including functional, declarative, and reactive programming, utilizing frameworks and libraries such as RxSwift, Combine, UIKit, and SwiftUI. I am currently expanding my knowledge by learning Android development with Kotlin and exploring cross-platform solutions like Flutter and React Native. In addition to my professional work, I am passionate about personal projects, one of which is creating a design system for SwiftUI called [Anastasia](https://github.com/alfian0/Anastasia). This project aims to simplify and streamline the design process for developers by providing a comprehensive and easily customizable library of styles and components.
 
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2028%20mins-blue)
 
@@ -32,13 +31,11 @@ YAML                     56 mins             █░░░░░░░░░░�
  Last Updated on 15/08/2024 02:44:23 UTC
 <!--END_SECTION:waka-->
 
----
 <div style="display:flex;">
  <img src="https://github-readme-stats.vercel.app/api?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
----
 ### Connect with me:
 
 [<img align="left" alt="Muhammad Alfiansyah | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />][linkedin]
