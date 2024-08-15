@@ -1,21 +1,9 @@
 ### Hi there 👋 I am Alfian
 I am an experienced iOS programmer with 7 years of expertise in developing high-quality applications. My skills encompass a wide range of programming paradigms, including functional, declarative, and reactive programming, utilizing frameworks and libraries such as RxSwift, Combine, UIKit, and SwiftUI. I am currently expanding my knowledge by learning Android development with Kotlin and exploring cross-platform solutions like Flutter and React Native. In addition to my professional work, I am passionate about personal projects, one of which is creating a design system for SwiftUI called [Anastasia](https://github.com/alfian0/Anastasia). This project aims to simplify and streamline the design process for developers by providing a comprehensive and easily customizable library of styles and components.
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Mememriksa framework mana yang menggunakan UIWebView](https://alfian-official-mail.medium.com/mememriksa-framework-mana-yang-menggunakan-uiwebview-a0850c56f04b)
-- [Cara memangil native method dari React Native iOS](https://alfian-official-mail.medium.com/cara-memangil-native-method-dari-react-native-ios-4b35f0c5b969)
-- [Cara buat XCFramework (Universal Framework)](https://alfian-official-mail.medium.com/cara-buat-xcframework-universal-framework-808fbc24d947)
-- [Sticker View pada Chat app](https://alfian-official-mail.medium.com/sticker-view-pada-chat-app-383ae9f63145)
-- [Memecah Monolith App ke Modular App](https://medium.com/@alfian.official.mail/memecah-monolith-app-ke-modular-app-89090f2c6531)
-- [Belajar CoreNFC di iOS Swift](https://medium.com/@alfian.official.mail/belajar-corenfc-di-ios-swift-8dde9fb5772d)
-- [Custom Page Transition di iOS App](https://medium.com/@alfian.official.mail/custom-page-transition-di-ios-app-cb7ee3981b91)
-- [Membuat Rating Komponen](https://medium.com/@alfian.official.mail/membuat-rating-komponen-d8f35d469bfa)
-- [Membongkar UIControl di UIKit](https://medium.com/@alfian.official.mail/membongkar-uicontrol-di-uikit-9d97eac574ee)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@alfian.official.mail)
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
