@@ -7,15 +7,15 @@
 I am an experienced iOS programmer with 7 years of expertise in developing high-quality applications. My skills encompass a wide range of programming paradigms, including functional, declarative, and reactive programming, utilizing frameworks and libraries such as RxSwift, Combine, UIKit, and SwiftUI. I am currently expanding my knowledge by learning Android development with Kotlin and exploring cross-platform solutions like Flutter and React Native. In addition to my professional work, I am passionate about personal projects, one of which is creating a design system for SwiftUI called [Anastasia](https://github.com/alfian0/Anastasia). This project aims to simplify and streamline the design process for developers by providing a comprehensive and easily customizable library of styles and components.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%207%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-🌆 Daytime                281 commits         ████████████░░░░░░░░░░░░░   46.60 % 
-🌃 Evening                164 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 Morning                142 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+🌆 Daytime                287 commits         ████████████░░░░░░░░░░░░░   47.05 % 
+🌃 Evening                165 commits         ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
 
@@ -23,14 +23,14 @@ I am an experienced iOS programmer with 7 years of expertise in developing high-
 
 ```text
 💬 Programming Languages: 
-Swift                    7 hrs 45 mins       ████████████████████████░   95.79 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Swift                    12 hrs 53 mins      ████████████████████████░   95.66 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 
- Last Updated on 17/09/2024 18:45:09 UTC
+ Last Updated on 18/09/2024 18:45:02 UTC
 <!--END_SECTION:waka-->
 
 <div>📈 <strong>My GitHub Stats:</strong></div>
