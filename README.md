@@ -7,7 +7,7 @@
 I am an experienced iOS programmer with 7 years of expertise in developing high-quality applications. My skills encompass a wide range of programming paradigms, including functional, declarative, and reactive programming, utilizing frameworks and libraries such as RxSwift, Combine, UIKit, and SwiftUI. I am currently expanding my knowledge by learning Android development with Kotlin and exploring cross-platform solutions like Flutter and React Native. In addition to my professional work, I am passionate about personal projects, one of which is creating a design system for SwiftUI called [Anastasia](https://github.com/alfian0/Anastasia). This project aims to simplify and streamline the design process for developers by providing a comprehensive and easily customizable library of styles and components.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2015%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -23,15 +23,15 @@ I am an experienced iOS programmer with 7 years of expertise in developing high-
 
 ```text
 💬 Programming Languages: 
-Swift                    2 hrs 14 mins       █████████████████░░░░░░░░   68.80 % 
-Other                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-XML                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-CocoaPods                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Swift                    2 hrs 24 mins       █████████████████░░░░░░░░   69.62 % 
+Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+CocoaPods                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 Cocoa                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 20/11/2024 18:54:56 UTC
+ Last Updated on 21/11/2024 18:54:17 UTC
 <!--END_SECTION:waka-->
 
 <div>📈 <strong>My GitHub Stats:</strong></div>
