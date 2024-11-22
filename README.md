@@ -7,7 +7,7 @@
 I am an experienced iOS programmer with 7 years of expertise in developing high-quality applications. My skills encompass a wide range of programming paradigms, including functional, declarative, and reactive programming, utilizing frameworks and libraries such as RxSwift, Combine, UIKit, and SwiftUI. I am currently expanding my knowledge by learning Android development with Kotlin and exploring cross-platform solutions like Flutter and React Native. In addition to my professional work, I am passionate about personal projects, one of which is creating a design system for SwiftUI called [Anastasia](https://github.com/alfian0/Anastasia). This project aims to simplify and streamline the design process for developers by providing a comprehensive and easily customizable library of styles and components.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -23,15 +23,15 @@ I am an experienced iOS programmer with 7 years of expertise in developing high-
 
 ```text
 💬 Programming Languages: 
-Swift                    2 hrs 24 mins       █████████████████░░░░░░░░   69.62 % 
-Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-CocoaPods                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Cocoa                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Swift                    9 hrs 24 mins       ██████████████████████░░░   87.53 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+CocoaPods                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
- Last Updated on 21/11/2024 18:54:17 UTC
+ Last Updated on 22/11/2024 18:53:53 UTC
 <!--END_SECTION:waka-->
 
 <div>📈 <strong>My GitHub Stats:</strong></div>
