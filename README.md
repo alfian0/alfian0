@@ -23,12 +23,12 @@ I am an experienced iOS programmer with 7 years of expertise in developing high-
 
 ```text
 💬 Programming Languages: 
-Swift                    3 hrs 23 mins       ███████████████████████░░   92.79 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Swift                    2 hrs 2 mins        ███████████████████████░░   91.14 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 ```
 
 
- Last Updated on 11/12/2024 18:56:17 UTC
+ Last Updated on 12/12/2024 18:56:50 UTC
 <!--END_SECTION:waka-->
 
 <div>📈 <strong>My GitHub Stats:</strong></div>
