@@ -7,7 +7,7 @@
 I am an experienced iOS programmer with 7 years of expertise in developing high-quality applications. My skills encompass a wide range of programming paradigms, including functional, declarative, and reactive programming, utilizing frameworks and libraries such as RxSwift, Combine, UIKit, and SwiftUI. I am currently expanding my knowledge by learning Android development with Kotlin and exploring cross-platform solutions like Flutter and React Native. In addition to my professional work, I am passionate about personal projects, one of which is creating a design system for SwiftUI called [Anastasia](https://github.com/alfian0/Anastasia). This project aims to simplify and streamline the design process for developers by providing a comprehensive and easily customizable library of styles and components.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2013%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -23,14 +23,14 @@ I am an experienced iOS programmer with 7 years of expertise in developing high-
 
 ```text
 💬 Programming Languages: 
-Swift                    5 hrs 21 mins       ██████████████████████░░░   88.41 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Swift                    10 hrs 31 mins      ███████████████████████░░   91.97 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 28/01/2025 18:52:07 UTC
+ Last Updated on 29/01/2025 18:51:59 UTC
 <!--END_SECTION:waka-->
 
 <div>📈 <strong>My GitHub Stats:</strong></div>
