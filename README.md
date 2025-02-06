@@ -28,14 +28,3 @@ Objective-C              0 secs              ░░░░░░░░░░░�
 
  Last Updated on 05/02/2025 18:52:19 UTC
 <!--END_SECTION:waka-->
-
-<div>📈 <strong>My GitHub Stats:</strong></div>
-</br>
-<div style="display:flex;">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfian0&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-[linkedin]: https://linkedin.com/in/alfian0
-[instagram]: https://www.instagram.com/_alfian0_/
-[medium]: https://medium.com/@alpiopio
