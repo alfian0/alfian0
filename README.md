@@ -2,7 +2,7 @@
 I am an experienced iOS programmer with 7 years of expertise in developing high-quality applications. My skills encompass a wide range of programming paradigms, including functional, declarative, and reactive programming, utilizing frameworks and libraries such as RxSwift, Combine, UIKit, and SwiftUI. I am currently expanding my knowledge by learning Android development with Kotlin and exploring cross-platform solutions like Flutter and React Native. In addition to my professional work, I am passionate about personal projects, one of which is creating a design system for SwiftUI called [Anastasia](https://github.com/alfian0/Anastasia). This project aims to simplify and streamline the design process for developers by providing a comprehensive and easily customizable library of styles and components.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2042%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -18,13 +18,13 @@ I am an experienced iOS programmer with 7 years of expertise in developing high-
 
 ```text
 💬 Programming Languages: 
-Swift                    30 hrs 43 mins      █████████████████████░░░░   85.74 % 
-Other                    3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-TOML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Swift                    35 hrs 15 mins      ███████████████████████░░   93.26 % 
+Other                    1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+YAML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Font                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
- Last Updated on 17/02/2025 18:51:37 UTC
+ Last Updated on 18/02/2025 18:53:44 UTC
 <!--END_SECTION:waka-->
