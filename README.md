@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Alfian
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -21,5 +21,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/01/2026 18:53:28 UTC
+ Last Updated on 05/01/2026 18:58:37 UTC
 <!--END_SECTION:waka-->
