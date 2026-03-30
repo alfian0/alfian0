@@ -17,10 +17,9 @@
 
 ```text
 💬 Programming Languages: 
-Other                    28 mins             ██████████████████████░░░   89.44 % 
-Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Other                    12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/03/2026 19:10:36 UTC
+ Last Updated on 30/03/2026 19:35:13 UTC
 <!--END_SECTION:waka-->
