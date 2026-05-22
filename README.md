@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Alfian
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2056%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -21,5 +19,5 @@ Other                    9 mins              ███████████�
 ```
 
 
- Last Updated on 21/05/2026 20:23:30 UTC
+ Last Updated on 22/05/2026 20:22:13 UTC
 <!--END_SECTION:waka-->
