@@ -1,6 +1,31 @@
 ### Hi there 👋 I am Alfian
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2026%20mins-blue?style=flat)
 
- Last Updated on 28/07/2026 20:04:03 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                247 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌆 Daytime                469 commits         ████████████░░░░░░░░░░░░░   47.57 % 
+🌃 Evening                230 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 29/07/2026 19:54:35 UTC
 <!--END_SECTION:waka-->
